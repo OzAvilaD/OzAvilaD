@@ -1,4 +1,4 @@
-# Hola, soy [tu nombre]
+# Hola, soy Oscar Avila
 
 ## Sobre mí
 
