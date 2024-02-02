@@ -1,10 +1,9 @@
-# Hola, soy Oscar Avila
+
+### ¡Hi!, I'm Oscar Avila, student engineering on Universidad de San Carlos de Guatemala.
 
 ## Sobre mí
 
 Soy un desarrollador jr apasionado por la tecnología y la programación. Me encanta trabajar en proyectos desafiantes y aprender cosas nuevas todos los días.
-
-### ¡Hi!, I'm Fernando Ibarra, student engineering on Universidad de San Carlos de Guatemala.
 
 <div align="center">
   <a href="https://github.com/OzAvilaD">
