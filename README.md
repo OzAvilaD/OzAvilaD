@@ -13,8 +13,8 @@ Soy un desarrollador jr apasionado por la tecnología y la programación. Me enc
 - Herramientas: Git, GitHub, VS Code
 <div align="center">
   <a href="https://github.com/OzAvilaD">
-  <img height="10em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OzAvilaD&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="10em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OzAvilaD&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="20rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OzAvilaD&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="20rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OzAvilaD&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 
