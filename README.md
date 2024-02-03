@@ -5,7 +5,6 @@
 
 <!--Soy un desarrollador jr apasionado por la tecnología y la programación. Me encanta trabajar en proyectos desafiantes y aprender cosas nuevas todos los días.
 -->
-
 Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar los que ya domino, tanto en el área de frontend como de backend. 
    
 ## Habilidades
@@ -24,7 +23,6 @@ Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 </div>
 
 ###
