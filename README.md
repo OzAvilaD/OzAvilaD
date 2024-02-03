@@ -3,8 +3,9 @@
 
 ## Sobre mí
 
-Soy un desarrollador jr apasionado por la tecnología y la programación. Me encanta trabajar en proyectos desafiantes y aprender cosas nuevas todos los días.
-
+<!--Soy un desarrollador jr apasionado por la tecnología y la programación. Me encanta trabajar en proyectos desafiantes y aprender cosas nuevas todos los días.
+--!>
+Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar los que ya domino, tanto en el área de frontend como de backend. 
     
 ## Habilidades
 
