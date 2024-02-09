@@ -16,7 +16,7 @@ Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar 
 
 <br clear="both">
 
-<p align="left"> 
+<div align="left"> 
    
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
    
@@ -43,7 +43,7 @@ Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar 
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
-</p>
+</div>
 
 ###
 
