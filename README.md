@@ -40,8 +40,7 @@ Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-
-###
+## Las estadisticas del repositorio
 
 <h3 align="left">🔥   My Stats :</h3>
 
