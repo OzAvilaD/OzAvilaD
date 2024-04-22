@@ -7,7 +7,7 @@
 -->
 Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar los que ya domino, tanto en el área de frontend como de backend. 
    
-## Habilidades
+## Tecnologias 💻
 
 - Lenguajes de programación: Python, JavaScript, HTML, CSS
 - Frameworks: React, Bootstrap
