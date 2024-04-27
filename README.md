@@ -5,9 +5,11 @@
 ## Sobre mí
 
 <!--Soy un desarrollador jr apasionado por la tecnología y la programación. Me encanta trabajar en proyectos desafiantes y aprender cosas nuevas todos los días.
--->
+
 Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar los que ya domino, tanto en el área de frontend como de backend. 
-   
+  --> 
+  ¡Hola! Soy Oscar Avila, un apasionado estudiante de ingeniería con un enfoque claro en el desarrollo de software. Como desarrollador junior, estoy ansioso por aprender y crecer en el mundo del desarrollo web, tanto en el frontend como en el backend. Mi experiencia incluye el mantenimiento de equipos electrónicos y conocimientos en redes informáticas según el estándar CCNA de Cisco. Estoy listo para enfrentar nuevos desafíos y contribuir con soluciones técnicas innovadoras. ¡Conéctate conmigo para explorar oportunidades emocionantes!
+  
 ## Tecnologias 💻
 
 - Lenguajes de programación: Python, JavaScript, HTML, CSS
