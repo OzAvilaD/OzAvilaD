@@ -12,7 +12,7 @@ Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar 
   
 ## Tecnologias 💻
 
-- Lenguajes de programación: Python, JavaScript, HTML, CSS
+- Lenguajes de programación: Java, C++, Python, HTML, CSS, JavaScript
 - Frameworks: React, Bootstrap
 - Herramientas: Git, GitHub, VS Code
 
