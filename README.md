@@ -2,7 +2,7 @@
 ### <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="100"/>¡Hi!, I'm Oscar Avila, student engineering .
 
 
-## Sobre mí
+## Sobre mí 
 
 <!--Soy un desarrollador jr apasionado por la tecnología y la programación. Me encanta trabajar en proyectos desafiantes y aprender cosas nuevas todos los días.
 
