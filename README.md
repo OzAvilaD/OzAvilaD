@@ -54,6 +54,10 @@ Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar 
   <img height="150rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OzAvilaD&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 ¡Gracias por leer mi perfil!
 
