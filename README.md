@@ -63,6 +63,4 @@ Soy un desarrollador junior con ganas de aprender nuevos lenguajes y consolidar 
 
 ## Proyectos
 
-<img src="https://raw.githubusercontent.com/OzAvilaD/OzAvilaD/output/snake.svg" alt="Snake animation" />
-
 ###
