@@ -1,4 +1,3 @@
-
 ## <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="100"/> ¡Hi!, I'm Oscar Avila, Software Engineering .
 
 
